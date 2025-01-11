@@ -36,7 +36,7 @@
 
 #### P.27 「2.4.2 リポジトリのクローン」に記載のURL
 
-誤: https://github.com/rust-web-app-book/rusty-book-manager
+誤: https://github.com/rust-web-app-book/rusty-book-manager  
 正: https://github.com/rust-web-app-book/rusty-book-manager-template
 
 
@@ -97,6 +97,6 @@ P.134で追加したログ出力のレイヤーがコードから抜けていま
 
 #### P.245 本文3行目 および 本文5行目
 
-誤: （例では `fn test_func`）
+誤: （例では `fn test_func`）  
 正: （例では `fn 任意の関数名`）
 
